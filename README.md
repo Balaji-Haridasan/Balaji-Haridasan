@@ -72,14 +72,13 @@ A solutions-driven Data science and Machine learning enthusiast with experience 
 	5.1 [Classification](#Classification)
 	
 	5.2 [Regression](#Regression)
-	
-	5.3 [Time_Series_Analysis](#Time_Series_Analysis)
-	
-6. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
-7. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
+   	
+7. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
 8. [Deep_Learning](#Deep_Learning)
 9. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
 10. [Explainable_AI](#Explainable_AI)
+11. [Generative AI](#Generative_AI)
+12. [MLOPS](#MLOPS)
 
 
 
