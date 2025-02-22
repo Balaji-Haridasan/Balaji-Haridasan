@@ -4,8 +4,8 @@
 - 👋 Hi, I’m @Balaji Haridasan  
 - 👀 Currently working as Junior Data scientist in Chubb Business Service India, Bangalore
 - 👀 I’m interested in Data Science and Artificial Intelligence 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data science projects
+- 🌱 I’m currently learning Data Science Generative AI
+- 💞️ I’m looking to collaborate on Data science and Generative AI projects
 - 📫 How to reach me Balajiharidasan@gmail.com
 - 📫 Know about me on https://www.linkedin.com/in/balaji-hari1994/
 
