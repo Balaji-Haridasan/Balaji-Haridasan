@@ -2,7 +2,7 @@
 <img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 👋 Hi, I’m @Balaji Haridasan  
-- 👀 Currently working as Junior Data scientist in Chubb Business Service India, Bangalore
+- 👀 Currently working as  Data scientist in Chubb Business Service India, Bangalore
 - 👀 I’m interested in Data Science and Artificial Intelligence 
 - 🌱 I’m currently learning Data Science and Generative AI
 - 💞️ I’m looking to collaborate on Data science and Generative AI projects
