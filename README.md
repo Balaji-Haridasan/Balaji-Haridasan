@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Balaji Haridasan  
 - 👀 Currently working as  Data scientist in Chubb Business Service India, Bangalore
-- 👀 I’m interested in Data Science and Artificial Intelligence 
+- 👀 I’m interested in Data Science and Generative AI Field
 - 🌱 I’m currently learning Data Science and Generative AI
 - 💞️ I’m looking to collaborate on Data science and Generative AI projects
 - 📫 How to reach me Balajiharidasan@gmail.com
