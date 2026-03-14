@@ -27,9 +27,6 @@ A solutions-driven Data science and Machine learning enthusiast with experience 
 
  Outside academics, I enjoy watching and playing cricket, music, and reading Magaziness. I also have a newfound interest in  Data science(DS), Artificial Intelligence(AI), Machine Learning(ML), and Computer Vision(CV), Natural Language Processing(NLP). If you ever want to get in touch with me, I am always available via email at balajiharidasan@gmail.com or Balaji.hsrm@gmail.com.
 
-"Difficulties in your life do not come to destroy you but to help you realize your hidden potential and power. Let difficulties know that you too are difficult." - APJ Abdul Kalam
-
-
 <h3>Things I code with</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761842-1743c493-c2e3-467e-89fe-6f3c7a3c96e1.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761764-bb9b0838-604f-4186-82f1-835ccb8313fb.svg" alt="Anaconda" width="40" height="40"/> </a> 
